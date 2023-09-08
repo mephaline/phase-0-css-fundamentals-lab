@@ -3,3 +3,8 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 { text-align: center;}
+IMG.displayed {
+  display: block;
+  margin-left: 900px;
+  margin-right: auto }
